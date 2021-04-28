@@ -65,5 +65,8 @@ ${data.usage}
   ${data.credit}
  ## License 
  This project is licensed under ${data.license} license.
-  `;
+##Access
+To gain access to this file go to (https://github.com/BE-Gee/Good-readme)
+ 
+ `;
 }
